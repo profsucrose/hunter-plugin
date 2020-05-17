@@ -1,0 +1,6 @@
+name: HunterServer
+version: 1.0-SNAPSHOT
+main: me.sucrosedev.hunterserver.HunterServer
+api-version: 1.13
+maketarget:
+  description: Make player a target
